@@ -103,10 +103,5 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 🛡 **License**
-This project is licensed under the MIT License. See the LICENSE file for more information.
-
----
-
 ## 📞 **Contact**
-- **GitHub:** [Your GitHub Profile](https://githu
+- **GitHub:** [Suyashks45](https://github.com/Suyashks45)
